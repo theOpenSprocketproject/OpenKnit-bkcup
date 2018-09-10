@@ -7,9 +7,4 @@ WARNING: this project is at an early stage of development, every piece of hardwa
 
 (File encoding from ISO-8859-1 to UTF-8)
 
-
-
-
-
-
-
+!AutoKnit is a research paper for design of 3D garment, we could use the algorithm for making specific parts of clothes.
